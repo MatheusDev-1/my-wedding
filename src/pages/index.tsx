@@ -36,7 +36,6 @@ const Home: React.FC = () => (
           <Paragraph>Depois de 2 anos de muito amor, estamos prontos para dar um novo passo: casar no civil e ir morar juntos.</Paragraph>
         </Description>
 
-
       </SectionWrapper>
 
       <SectionWrapper>
@@ -51,7 +50,7 @@ const Home: React.FC = () => (
 
         <WeddingButton style={{ marginBottom: '30px' }} href='https://www.querodecasamento.com.br/lista-de-casamento/elaineematheusdahora'>Acessar lista de casamento</WeddingButton>
 
-        <Description style={{display: 'flex', justifyContent: 'center', alignItems: 'center'}}>
+        <Description style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
           <Paragraph>E caso queira contribuir com qualquer outro valor, segue abaixo também o QRCode para PIX e o código do pix copia e cola</Paragraph>
           <br />
           <Pix src='pix.jpeg' alt='pix' />
