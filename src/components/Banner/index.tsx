@@ -1,4 +1,4 @@
-import React from 'React';
+import React from 'react';
 import { Leaves, LeavesFlipped, Container, Typography } from './styles';
 
 const Banner: React.FC = () => (
