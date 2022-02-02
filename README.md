@@ -1,3 +1,3 @@
-# Covid 19 Aggregator
+# My Wedding
 
-Agregador de notícias relacionadas a Covid 19
+Site simples para divulgar meu casamento
